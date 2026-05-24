@@ -1,3 +1,5 @@
+![proof](https://github.com/Endless33/vrp-runtime-proof/actions/workflows/proof.yml/badge.svg)
+
 # VRP Runtime Proof
 
 One-command public proof harness for VRP runtime continuity behavior.
